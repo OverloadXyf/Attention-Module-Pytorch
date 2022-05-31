@@ -1,4 +1,4 @@
-#Attention-Module-Pytorch
+# Attention-Module-Pytorch
 
 ## Attention-Module 包括
 
@@ -11,4 +11,4 @@
     * 使用Global Average Pooling (GAP), Global Maximum Pooling (GMP),或GAP&GMP
     * Channel Pooling使用Mean, Max，或者Mean&Max 
 
-###即插即用 非常方便
+### 即插即用 非常方便
