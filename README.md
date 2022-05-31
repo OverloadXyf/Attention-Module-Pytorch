@@ -12,3 +12,6 @@
     * Channel Pooling使用Mean, Max，或者Mean&Max 
 
 ### 即插即用 非常方便
+|Attention Module| Flops | Params |
+| :----:|  :----:| :----:|
+|SEnet| 209.18K |8.46K|
