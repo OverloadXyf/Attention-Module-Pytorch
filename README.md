@@ -13,7 +13,8 @@
 
 ### 即插即用 非常方便
 
-* input=tensor(1,256,28,28)
+  * input=tensor(1,256,28,28)
+
 | Attention Module |   Flops   | Params |
 | :----------------: | :---  ----: | :---_---: |
 |      SEnet      | 209.18K |    8.46K |
