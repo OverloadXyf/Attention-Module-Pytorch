@@ -4,6 +4,8 @@ import torch.nn.functional as F
 
 '''
 "Squeeze-and-Excitation Networks":https://arxiv.org/pdf/1709.01507.pdf
+CHI:标准的搭建模式，其中的参数可以修改
+ENG:Standard setup mode, in which parameters can be modified
 '''
 
 class SELayer(nn.Module):
