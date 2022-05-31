@@ -1,11 +1,15 @@
 import torch
 from ptflops import  get_model_complexity_info
 from models.SEnet import SELayer
+from models.CBAM import CBAM
+from models.ECAnet import ECALayer
 
 with torch.cuda.device(0):
 
 
-    net=SELayer(256)
+    # net=SELayer(256)
+    net=ECALayer()
+
     macs,params=get_model_complexity_info(net,(256,28,28),as_strings=True,print_per_layer_stat=True,verbose=True)
 
     print('{:<30}  {:<8}'.format('Computational complexity:',macs))
