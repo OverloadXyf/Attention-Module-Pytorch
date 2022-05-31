@@ -18,6 +18,6 @@
 | Attention Module |   Flops   | Params |
 | :----------------: | :----------: | :--------: |
 |      SEnet      | 209.18K |    8.46K |
-|      ECAnet k=3| 207.47K |    3  |
+|      ECAnet (k=3)| 207.47K |    3  |
 |      ECAnet (Adaptive_k) | 201.98 | 5 |
 |      CBAM_Channel_2pool_Spatial_2pool  | 497.55k | 8.56K |
