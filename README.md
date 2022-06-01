@@ -10,6 +10,8 @@
   * 使用Channel Attention (CA)或者Spatial Attention (SA),或者 CA&SA
   * 使用Global Average Pooling (GAP), Global Maximum Pooling (GMP),或GAP&GMP
   * Channel Pooling使用Mean, Max，或者Mean&Max
+* GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond. Paper Address ---> :https://arxiv.org/abs/1904.11492?context=cs.LG
+  * 融合（fusion）方式包括直接add和mul
 
 ### 即插即用 非常方便
 
