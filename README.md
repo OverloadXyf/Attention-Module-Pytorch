@@ -23,3 +23,6 @@
 |      ECAnet (k=3)| 207.47K |    3  |
 |      ECAnet (Adaptive_k) | 201.98K | 5 |
 |      CBAM_Channel_2pool_Spatial_2pool  | 497.55K | 8.56K |
+|      GCnet fusion=add | 332.54K| 132.1K |
+|      GCnet fusion=mul | 332.54K| 132.1K |
+|      GCnet fusion=mul&add | 464.38K| 264.19K |
